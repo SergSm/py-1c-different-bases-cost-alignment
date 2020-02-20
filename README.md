@@ -17,12 +17,12 @@ The costs is taken from BUH.csv and distributed among the item series from the U
 
 
 Incoming data:  
-BUH.csv with fields:  
-    Номенклатура	str     - item name  
-    КодНоменклатуры str     - unique code of an item  
-    Склад	        str     - warehouse name  
-    Количество	    float   - quantity   
-    Сумма           float   - sum  
+* BUH.csv with fields:  
+    * Номенклатура	str     - item name  
+    * КодНоменклатуры str     - unique code of an item  
+    * Склад	        str     - warehouse name  
+    * Количество	    float   - quantity   
+    * Сумма           float   - sum  
     
 UT.csv with fields:  
     Номенклатура    str     - item name	  
