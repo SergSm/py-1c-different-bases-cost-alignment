@@ -1,9 +1,11 @@
 # py-1c-different-bases-cost-alignment  
-The practical sense of the scipt is to make products between 2 databases have the same cost  
-1'st database one is used for operational accounting   
-2'nd database is used for accounting and taxes. It also has the correct accounting costs.  
-The quantities between 2 databases are the same  
+* The practical sense of the scipt is to make products between 2 databases have the same cost  
+ * 1'st database one is used for operational accounting   
+ * 2'nd database is used for accounting and taxes. It also has the correct accounting costs.  
 
+
+The items where the names between 2 db's are different but have the same code will be displayed in different_names.xlsx
+different_names.xlsx also contains items unique for BUH or UT file
 
 The biggest problem - the remains table has additional column called "Серия"(series) - an item  
 from the 1'st database has a quantity in the context of series  
