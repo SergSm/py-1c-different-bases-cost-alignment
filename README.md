@@ -24,16 +24,16 @@ Incoming data:
     * Количество	    float   - quantity   
     * Сумма           float   - sum  
     
-UT.csv with fields:  
-    Номенклатура    str     - item name	  
-    КодНоменклатуры	str     - unique code of an item  
-    Склад	        str     - code of an item  
-    Количество	    float   - quantity   
-    Сумма	        float   - sum  
-    Серия	        str     - item series  
-    КодСерии        str     - code of item item series  
+* UT.csv with fields:  
+    * Номенклатура    str     - item name	  
+    * КодНоменклатуры	str     - unique code of an item  
+    * Склад	        str     - code of an item  
+    * Количество	    float   - quantity   
+    * Сумма	        float   - sum  
+    * Серия	        str     - item series  
+    * КодСерии        str     - code of item item series  
  
  
 Outcoming data:  
-final_UT_BUH.xlsx    
+* final_UT_BUH.xlsx    
 
