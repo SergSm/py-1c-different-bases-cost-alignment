@@ -15,7 +15,7 @@ The trick is to take the costs of the same items from 2'nd accounting database a
 for the 1 database.  
 
 
-The costs is taken from BUH.csv and distributed among the item series from the UT.csv  
+The cost is taken from BUH.csv and distributed among the item series from the UT.csv  
 
 
 Incoming data:  
