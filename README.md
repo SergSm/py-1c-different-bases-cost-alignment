@@ -1,6 +1,6 @@
 # py-1c-different-bases-cost-alignment  
-* The practical sense of the scipt is to make products between 2 databases have the same cost  
- * 1'st database one is used for operational accounting   
+* The practical sense of the scipt is to make products between 2 databases to have the same cost  
+ * 1'st database is used for operational accounting   
  * 2'nd database is used for accounting and taxes. It also has the correct accounting costs.  
 
 
